@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Evgeniy343/Evgeniy343/blob/main/zhendos.gif" align="center" style="width: 100%" />
+<img src="https://github.com/Evgeniy343/Evgeniy343/blob/main/zhendos.gif" align="center" style="width: 100%" style="height: 60%"/>
 </div>  
   
 
