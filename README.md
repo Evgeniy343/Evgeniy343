@@ -88,7 +88,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Evgeniy343&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<img src="https://github.com/Evgeniy343/Evgeniy343/blob/main/magic.gif" align="right" width="300" height="200" />  
+<img src="https://github.com/Evgeniy343/Evgeniy343/blob/main/magic.gif" align="right" width="300" height="300" />  
 
 
 <br />
