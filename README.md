@@ -88,12 +88,14 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Evgeniy343&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
+<img src="https://github.com/Evgeniy343/Evgeniy343/blob/main/magic.gif" align="right" width="200" height="400" />  
+
 <br/>  
   
 
 <br/>  
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=vz7rgitx9wyyitjxmwqjc28fl&cover_image=true&theme=default&bar_color_cover=true" align="right" width="300" height="500" />  
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=vz7rgitx9wyyitjxmwqjc28fl&cover_image=true&theme=default&bar_color_cover=true" width="300" height="500" />  
 
 <br/>  
 
